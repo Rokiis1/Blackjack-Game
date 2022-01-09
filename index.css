@@ -1,0 +1,39 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  gap: 10px;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  background-color: forestgreen;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: ghostwhite;
+}
+
+p {
+  font-weight: bold;
+}
+
+button {
+  padding: 0.5rem;
+  border-radius: 3px;
+  font-weight: bold;
+  color: darkcyan;
+  background-color: honeydew;
+  border: none;
+}
+
+button:hover {
+  filter: brightness(85%);
+  cursor: pointer;
+}
