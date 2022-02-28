@@ -4,7 +4,8 @@
 * [Link](#link)
 
 ## General info
-This project uses JavaScript and I created Blackjack little bit advance structure.
+
+Blackjack game.
 	
 ## Technologies
 Project is created with:
